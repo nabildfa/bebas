@@ -1,0 +1,9 @@
+Cara menjalankan codenya
+
+1. extract file cvm-class.rar
+2. buka cmd dan pastikan posisinya sudah berada di folder cvm class
+3. masukan perintah npm install
+4. masukan perintah npm run dev
+
+
+note : kalau temen temen gagal boleh chat di grup mau pc ya
